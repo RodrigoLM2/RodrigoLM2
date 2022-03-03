@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rodrigo 👋
+### Hello! I'm Rodrigo Lopes Marques 👋
 
  <div>
   <a href="https://github.com/RodrigoLM2">
